@@ -33,20 +33,7 @@
 
 ---
 
-## 🖼️ Screenshots
 
-<p align="center">
-  <img src="assets/login.png" width="220" alt="Login" />
-  <img src="assets/signup.png" width="220" alt="Signup" />
-
-  <img src="assets/add-plant.png" width="220" alt="Add Plant" />
-  <img src="assets/update-plant.png" width="220" alt="Update Plant" />
-</p>
-<p align="center">
-  <i>Login, Signup, Plant Catalog, Add Plant, Update Plant (responsive on all devices)</i>
-</p>
-
----
 
 ## 💡 Why Mini Plant Store?
 
@@ -81,24 +68,7 @@
   <img src="https://img.shields.io/badge/Debounce-Enabled-f59e42?style=flat-square" />
 </p>
 
----
 
-## 🏛️ Project Structure
-
-```plaintext
-/server           # Express.js backend
-  /models         # Mongoose schemas
-  /routes         # API endpoints
-  seeder.js       # Database seeder
-/client           # React frontend
-  /src
-    /components   # UI components
-    /pages        # Main pages
-/assets           # Project screenshots for README
-.env              # Environment variables
-```
-
----
 
 ## ⚡ Quickstart
 
